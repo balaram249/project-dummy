@@ -1,5 +1,5 @@
 
-package Visitcase;
+package Visitcase.sender;
 
 /**
  * Hello world!
